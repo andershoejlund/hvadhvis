@@ -1,5 +1,7 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Manifest"
+    url: /manifest/
   - title: "Om Hvad Hvis"
     url: /omhvadhvis/
