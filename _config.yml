@@ -14,11 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hvad Hvis
+title_separator: " - "
+subtitle: klima, jord og lokalsamfund
 email: anders@hvadhvis.dk
+name: Anders Højlund Andersen
+url: "https://hvadhvis.dk"
 description: >- # this means to ignore newlines until "baseurl:"
   Hvad Hvis handler om klima, jord og lokalsamfund.
+locale: "da-dk"
 twitter_username: username
-github_username: username
+github_username: andershoejlund
 minimal_mistakes_skin: default
 search: true
 
@@ -58,11 +63,11 @@ plugins:
 author:
   name   : "Anders Højlund Andersen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "**Skriver om klima, jord og lokalsamfund.**<br><br> Jeg læser og skriver, tænker og drømmer fordi at jeg anerkender, at alt liv på jorden er i fare.<br><br> Velkommen"
+  bio    : "Jeg læser og skriver, tænker og drømmer højt, da jeg anerkender, at alt liv på jorden er i fare.<br><br>Velkommen"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
+    # - label: "anders@hvadhvis.dk"
+    #   icon: "fas fa-at"
+    #   url: ""
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://"
@@ -75,9 +80,9 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    # - label: "anders@hvadhvis.da"
+    #   icon: "fab fa-at"
+    #   url: "<a href="mailto:email@example.com">Send Email</a>"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"
@@ -92,10 +97,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
