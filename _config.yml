@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Anders Højlund Andersen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hvad Hvis handler om klima, jord og lokalsamfund.<br> Jeg læser og skriver, tænker og drømmer fordi at jeg anerkender, at alt liv på jorden er i fare.<br><br> Velkommen"
+  bio    : "**Skriver om klima, jord og lokalsamfund.**<br><br> Jeg læser og skriver, tænker og drømmer fordi at jeg anerkender, at alt liv på jorden er i fare.<br><br> Velkommen"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
