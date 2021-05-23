@@ -16,14 +16,10 @@ toc_sticky: false
 
 Til inspiration for hvem det kunne være interessant er her en oversigt over nogle af de programmer og ideer jeg bruger på min computer.
 
-### **macOs programmer**
-
-### **Homebrew**
-Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 62 forskellige programmer.
-
-`brew install --cask git cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
+### macOS programmer
 
 #### **Work**
+
 - 2do - one-time-payment - todolist
 - Typora - markdown text editor
 - WorkFlowy - collapse / todo list document
@@ -31,6 +27,7 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Git - github
 - Mailmate - dansk udviklet mail program keyboard og markdown orienteret
 - Firefox - se desuden [plugin liste](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
+- Harvest - time tracking
 
 #### **Diverse**
 - Daisydisk - hdd overview
@@ -40,6 +37,12 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Contexts - window switcher
 - Cursorcerer - hide cursor - [LINK](http://doomlaser.com/cursorcerer-hide-your-cursor-at-will/)
 - QLMarkdown - quicklook markdown - [LINK](https://github.com/toland/qlmarkdown/)
+
+##### **Homebrew**
+
+Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 62 forskellige programmer.
+
+`brew install --cask git cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
 
 #### **Menubar**
 - Mic drop - deactivate mic
@@ -57,9 +60,11 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Karabiner - vil gerne aktivere f-tasterne når excel er åben
 - Display control - brightness control external screen
 - f.lux - skærm tone controller
+- Harvest - time tracking
 
 #### **Firefox**
-Praktisk
+##### Praktisk
+
 - Bitwarden - password manager
 - Leechblock - site blocker
 - Firefox Multi-Account Containers
@@ -68,11 +73,13 @@ Praktisk
 - Move Tab Hotkeys
 - Tab session manager
 
-Webudvikling
+##### Webudvikling
+
 - Clear Site Cookies
 - Colorzilla
 
-Privacy
+##### Privacy
+
 - Decentraleyes
 - HTTPS Everywhere
 - Privacy Badger
@@ -81,7 +88,7 @@ Privacy
 
 ### **macOS genveje**
 
-#### **Hjemmelavet:**
+#### **Hjemmelavet**
 - [control]+[alt]+[command] + g - greyscale switch
 - [control]+[alt]+[command] + t - 2do quick entry
 - [control]+[alt]+[command] + p - start pomodoro
@@ -97,7 +104,7 @@ Privacy
 - [control]+[alt]+[command] + k - show menubar kalender
 - - [command] + N - add event i kalender
 
-#### **Finder:**
+#### **Finder**
 Se menu "go" i finder for flere
 - [shift]+[command] + O - Home
 - [shift]+[command] + D - Desktop
@@ -120,17 +127,21 @@ settings → keyboard → Shortcuts → App Shortcuts
 ### **Firefox genveje**
 Indstilles under firefox addons [shift]+[cmd] + a → tandhjul (settings) Håndter genveje, se screenshot (tryk på pilen, i starten af linjen)
 
-Inbox when ready
+#### Inbox when ready
+
 - [control]+[alt] + i - show / hide gmail inbox
 
-Move tab hotkeys
+#### Move tab hotkeys
+
 - [control]+[alt] + (left eller right) - move tab left or right
 
-Bitwarden
+#### Bitwarden
+
 - [control]+[alt] + b - open bitwarden
 - [control]+[alt] + v - udfyld bitwarden
 - [control]+[alt] + p - copy, newly generated password bitwarden
 
-In My Pocket (pocket)
+#### In My Pocket (pocket)
+
 - [control]+[alt] + n - save to pocket
 - [control]+[alt]+[space] - open pocket list
