@@ -10,7 +10,6 @@ tags:
 toc: true
 toc_label: "Indholdsfortegnelse"
 toc_sticky: false
-
 ---
 
 > "Do what you can, with what you have, where you are." - Theodore Roosevelt
@@ -19,9 +18,9 @@ Baseret på min antagelse om, at hvor min intuition ikke er hensigtsmæssigt, ka
 
 Jeg har oplevet at være meget stresset, særligt i én periode hvor jeg flere gange vågnede med hjertebanken. Jeg fik hjælp og har siden organiseret mine ideer, opgaver og referencer ved hjælp af tre trin:
 
-1. At nemt **indsamle** og **organisere** alle idéer, opgaver, referencer og refleksioner.
-2. At nemt **planlægge** og organisere ens arbejdstid.
-3. At skabe **arbejdsro**.
+1. Nemt **indsamle** og organisere alle idéer, opgaver, referencer og refleksioner.
+2. **Planlægge** og **organisere** arbejdstid.
+3. Skabe **arbejdsro**.
 
 Næste skridt bliver at beskrive mine projekt management teknikker og filosofi.
 
@@ -99,7 +98,7 @@ Han fortæller blandt andet at vi lever i en moderne verden, som kan beskrives s
 
 #### Firefox
 - [Leechblock](https://www.proginosko.com/leechblock/) blokerer på baggrund af selvvalgte regler hvad min browser må vise. Jeg har blokeret alle sociale medier i hverdagene og som eksempel tildelt [news.ycombinator.com](https://news.ycombinator.com/) min yndlings nyhedsside 10 daglige minutter.
-  - Du kan downloade min [leechblock settings fil](/assets/files/LeechBlockOptions(andersha).txt).
+  - Du kan downloade min [leechblock settings fil](/assets/files/LeechBlockOptions(andersha).txt.zip).
 
 - [Unlock origin](https://ublockorigin.com/) reklamebeskyttelse har blokeret 150.xxx elementer siden jeg installerede den.
 
