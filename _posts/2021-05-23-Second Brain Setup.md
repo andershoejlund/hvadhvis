@@ -1,6 +1,6 @@
 ---
 title: "Second Brain Setup"
-date: 2019-05-23 00:00:00 -0100
+date: 2021-05-23 00:00:00 -0100
 categories:
   - blog
 tags:
