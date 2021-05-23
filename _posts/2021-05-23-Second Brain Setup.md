@@ -15,13 +15,13 @@ toc_sticky: false
 
 > "Do what you can, with what you have, where you are." - Theodore Roosevelt
 
-Baseret på min antagelse om, at hvor min intuition ikke er hensigtsmæssigt, kan et system hjælpe mig. Jeg har oplevet at være meget stresset, særligt en periode hvor jeg flere gange vågnede med hjertebanken. Jeg fik hjælp og har siden brugt forskellige systemer til at organisere mine ideer, opgaver og referencer, det vil jeg forklare her.
+Baseret på min antagelse om, at hvor min intuition ikke er hensigtsmæssigt, kan et system hjælpe. 
 
-Ambitionen er I korte træk, tre trin:
+Jeg har oplevet at være meget stresset, særligt én periode hvor jeg flere gange vågnede med hjertebanken. Jeg fik hjælp og har siden brugt forskellige systemer til at organisere mine ideer, opgaver og referencer, de tre trin er:
 
-1. At nemt **indsamle** og **organisere** alle gode idéer, referencer og refleksioner.
+1. At nemt **indsamle** og **organisere** alle idéer, opgaver, referencer og refleksioner.
 2. At nemt **planlægge** og organisere ens arbejdstid.
-3. Skabe **arbejdsro**.
+3. At skabe **arbejdsro**.
 
 ## Indsamling
 
