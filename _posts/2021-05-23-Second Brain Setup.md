@@ -17,11 +17,13 @@ toc_sticky: false
 
 Baseret på min antagelse om, at hvor min intuition ikke er hensigtsmæssigt, kan et system hjælpe. 
 
-Jeg har oplevet at være meget stresset, særligt én periode hvor jeg flere gange vågnede med hjertebanken. Jeg fik hjælp og har siden organiseret mine ideer, opgaver og referencer ved hjælp af tre trin er:
+Jeg har oplevet at være meget stresset, særligt i én periode hvor jeg flere gange vågnede med hjertebanken. Jeg fik hjælp og har siden organiseret mine ideer, opgaver og referencer ved hjælp af tre trin:
 
 1. At nemt **indsamle** og **organisere** alle idéer, opgaver, referencer og refleksioner.
 2. At nemt **planlægge** og organisere ens arbejdstid.
 3. At skabe **arbejdsro**.
+
+Næste skridt bliver at beskrive mine projekt management teknikker og filosofi.
 
 ## Indsamling
 
@@ -64,6 +66,8 @@ Min faste review dagsorden:
 ## Planlængning
 Næste trin i min "mandag morgen" er planlægning.
 
+For at få overblik over større projekter bruger jeg redskaber fra [agile focus](http://agilefocus.com/2010/04/26/the-lean-startup-kanban-board/) og min ugekalender til at planlægge en uge af gangen.
+
 ### Agile Focus
 Et koncept fra software udvikling. Hvor jeg har adopteret en meget simple whiteboard teknik, som jeg bruger på tværs af projekter og initiativer.
 
@@ -71,14 +75,14 @@ Whiteboardet bliver delt i fire kolonner, se diagrammet herunder, backlog, plann
 
   Backlog    | Planned     | Doing     | Done
  ---- | ---- | ---- | ---- 
-      |      |      |		
-      |      |      |		
-      |      |      |		
+ Project 1 |      |      |		
+ Project 2 |      |      |		
+ Project 3 |      |      |		
 
 
 
 ### Ugekalender
-For at undgå spildtid og misforståelse, så har jeg altid haft en uge kalender, hvor hele ugen kunne ses i et opslag. På [øhave](https://ohave.dk/) og [Horgen](https://www.instagram.com/horgengaard/) holdte vi hver uge, mandagsmøde, logistik og materiel skulle organiseres og hele holdet orienteres.
+For at undgå spildtid og misforståelse, så har jeg altid haft en uge kalender, hvor hele ugen kunne ses i et opslag. På [øhave](https://ohave.dk/) og [Horgen](https://www.instagram.com/horgengaard/) holdte vi hver uge mandagsmøde, logistik og materiel skulle organiseres og hele holdet orienteres.
 
 I min kalender har jeg altid en stor post-it, som dækker den nederste halvdel af den ene side, hvor jeg har plads til noter.
 
@@ -94,12 +98,12 @@ Hvis du har set "[The Social Dilemma](https://youtu.be/uaaC57tcci0)" på netflix
 Han fortæller blandt andet at vi lever i en moderne verden, som kan beskrives som en [attention economy](https://en.wikipedia.org/wiki/Attention_economy), apps og reklamer kæmper for vores opmærksomhed, herunder vil jeg liste nogle af de redskaber jeg bruger for at undgå at mine enheder tager for meget af min opmærksomhed.
 
 #### Firefox
-- Senest har jeg tilføjet [Leechblock](https://www.proginosko.com/leechblock/) til firefox, denne plugin blokerer på baggrund af mine regler min browser. Jeg har blokeret alle sociale medier i hverdagene og som eksempel tildelt [news.ycombinator.com](https://news.ycombinator.com/) min yndlings nyhedsside 10 daglige minutter.
-  - Download min setup fil her.
+- [Leechblock](https://www.proginosko.com/leechblock/) blokerer på baggrund af selvvalgte regler hvad min browser må vise. Jeg har blokeret alle sociale medier i hverdagene og som eksempel tildelt [news.ycombinator.com](https://news.ycombinator.com/) min yndlings nyhedsside 10 daglige minutter.
+  - Du kan downloade min [leechblock settings fil](/assets/files/LeechBlockOptions(andersha).txt).
 
 - [Unlock origin](https://ublockorigin.com/) reklamebeskyttelse har blokeret 150.xxx elementer siden jeg installerede den.
 
-Se flere firefox plugins.
+Se flere [firefox plugins](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
 
 #### iOS
 Jeg prøver, at holde min telefon ude af mit og andres synsfelt, lade den ligge hjemme og slukke den engang imellem.
@@ -118,7 +122,7 @@ Hvis jeg skal være god til mit arbejde, så må jeg skabe den ro jeg har brug f
 ### Tekniske Tricks
 
 ##### **Homebrew**
-Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt.
+Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 62 forskellige programmer.
 
 `brew install --cask git cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
 
@@ -130,8 +134,8 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - WorkFlowy - collapse / todo list document
 - Sublime Text - text editor
 - Git - github
-- Mailmate - dansk udviklet mail program     keyboard og markdown orienteret
-- Firefox - se plugin liste
+- Mailmate - dansk udviklet mail program keyboard og markdown orienteret
+- Firefox - se desuden [plugin liste](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
 
 ##### **Diverse**
 - Daisydisk - hdd overview
@@ -139,12 +143,12 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Camo - iphone as webcam
 - Syncthing - non-cloud file sharing
 - Contexts - window switcher
-- Cursorcerer - hide cursor - LINK
-- QLMarkdown - quicklook markdown - LINK
+- Cursorcerer - hide cursor - [LINK](http://doomlaser.com/cursorcerer-hide-your-cursor-at-will/)
+- QLMarkdown - quicklook markdown - [LINK](https://github.com/toland/qlmarkdown/)
 
 ##### **Menubar**
 - Mic drop - deactivate mic
-- LuLu - firewall - LINK
+- LuLu - firewall - [LINK](https://objective-see.com/products/lulu.html)
 - macmediakeyforwarder - spotify only keyboard
 - Maccy - clipboard history
 - Grayscale Mode*
@@ -152,11 +156,12 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Auto Collapse - menubar hide / show
 - Itsycal - menubar kalender
 - Fanny - fanspeed og temperataur
-- Sound control - external monitor sound control     hdmi
+- Sound control - external monitor sound control hdmi
 - Tiles - window control
-- Protonmail bridge - protonmail to mailmate     encryption
-- Karabiner - vil gerne aktivere f-tasterne når     excel er åben
-- Display control - brightness control external     screen
+- Protonmail bridge - protonmail to mailmate  encryption
+- Karabiner - vil gerne aktivere f-tasterne når excel er åben
+- Display control - brightness control external screen
+- f.lux - skærm tone controller
 
 ##### **Firefox**
 Praktisk
@@ -182,19 +187,19 @@ Privacy
 #### **macOS genveje**
 
 ##### **Hjemmelavet:**
-- [control]+[alt]+[command] + g - greyscale     switch
-- [control]+[alt]+[command] + t - 2do quick     entry
+- [control]+[alt]+[command] + g - greyscale switch
+- [control]+[alt]+[command] + t - 2do quick entry
 - [control]+[alt]+[command] + p - start pomodoro
 - [control]+[alt]+[command] + s - stop pomodoro
-- [control]+[alt]+[command] + v - clipboard     history
+- [control]+[alt]+[command] + v - clipboard history
 - [control]+[alt]+[command] + h - open harvest
 - - [command] + n - add new timer
   - [space] - start / stop active timer
-- [control]+[alt]+[command] + + - show menubar     indhold
-- [control]+[alt]+[command] + (arrow up) - full     screen window
-- [control]+[alt]+[command] + (arrow left /     right) - move window to next screen
-- [control]+[alt] + (arrow left / right) - half     size window size
-- [control]+[alt]+[command] + k - show menubar     kalender
+- [control]+[alt]+[command] + + - show menubar indhold
+- [control]+[alt]+[command] + (arrow up) - full screen window
+- [control]+[alt]+[command] + (arrow left / right) - move window to next screen
+- [control]+[alt] + (arrow left / right) - half size window size
+- [control]+[alt]+[command] + k - show menubar kalender
 - - [command] + N - add event i kalender
 
 ##### **Finder:**
@@ -204,18 +209,18 @@ Se menu "go" i finder for flere
 - [shift]+[command] + A - Applications
 - [alt]+[command] + L - Downloads
 
-- [shift]+[command] + . (dot) - show hidden     files
+- [shift]+[command] + . (dot) - show hidden files
 
 ##### **Hotkey Indstillinger** 
 settings → keyboard → Shortcuts → App Shortcuts
 
 - [control]+[alt]+[command] + D - show desktop
-- [control]+[alt]+[command] + , - åbner system     indstillinger
-- [alt]+[command] + (left elller right) Skift     visning af faneblad i finder og alle programmer, så den er den samme som i     firefox.
+- [control]+[alt]+[command] + , - åbner system indstillinger
+- [alt]+[command] + (left elller right) Skift visning af faneblad i finder og alle programmer, så den er den samme som i     firefox.
 
 ##### **Automator**
-- [control]+[alt]+[command] + m - new email     popup - LINK
-- [control]+[alt]+[command] + n - new notes     popup - LINK
+- [control]+[alt]+[command] + m - new email popup - [LINK](https://apple.stackexchange.com/questions/77633/new-email-message-with-a-global-keyboard-shortcut)
+- [control]+[alt]+[command] + n - new notes popup
 
 #### **Firefox genveje**
 Indstilles under firefox addons [shift]+[cmd] + a → tandhjul (settings) Håndter genveje, se screenshot (tryk på pilen, i starten af linjen)
@@ -224,12 +229,12 @@ Inbox when ready
 - [control]+[alt] + i - show / hide gmail inbox
 
 Move tab hotkeys
-- [control]+[alt] + (left eller right) - move     tab left or right
+- [control]+[alt] + (left eller right) - move tab left or right
 
 Bitwarden
 - [control]+[alt] + b - open bitwarden
 - [control]+[alt] + v - udfyld bitwarden
-- [control]+[alt] + p - copy, newly generated     password bitwarden
+- [control]+[alt] + p - copy, newly generated password bitwarden
 
 In My Pocket (pocket)
 - [control]+[alt] + n - save to pocket
