@@ -1,7 +1,52 @@
 main:
-  - title: "Blog"
-    url: /posts/
-  - title: "Manifest"
-    url: /manifest/
-  - title: "Om Hvad Hvis"
-    url: /omhvadhvis/
+  # - title: "Blog"
+  #   url: /posts/
+  - title: "Klima 101"
+    url: /klima101/
+  - title: "Hvorfor Hvad Hvis"
+    url: /hvorforhvadhvis/
+
+klima:
+  - title: Klima 101
+    children:
+      - title: "Historisk"
+        url: /docs/quick-start-guide/
+      - title: "Holocæne epoke"
+        url: /docs/structure/
+      - title: "Planetary Boundaries"
+        url: /docs/installation/
+      - title: "Tipping Points"
+        url: /docs/upgrading/
+
+  - title: Jord
+    children:
+      - title: "Jord"
+        url: /docs/configuration/
+      - title: "Økosystemer"
+        url: /docs/navigation/
+      - title: "Spaceship Earth"
+        url: /docs/ui-text/
+      - title: "Forvalting"
+        url: /docs/authors/
+      - title: "Energi"
+        url: /docs/layouts/
+
+  - title: Lokalsamfund
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/

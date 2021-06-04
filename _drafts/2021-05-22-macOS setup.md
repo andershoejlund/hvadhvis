@@ -12,7 +12,7 @@ toc_label: "Indholdsfortegnelse"
 toc_sticky: false
 ---
 
->"Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something." - Franklin D. Roosevelt
+>"Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something." <br>- Franklin D. Roosevelt
 
 Til inspiration for hvem det kunne være interessant er her en oversigt over nogle af de programmer og ideer jeg bruger på min computer.
 
@@ -25,6 +25,7 @@ Til inspiration for hvem det kunne være interessant er her en oversigt over nog
 - WorkFlowy - collapse / todo list document
 - Sublime Text - text editor
 - Git - github
+- Iterm2 - terminal
 - Mailmate - dansk udviklet mail program keyboard og markdown orienteret
 - Firefox - se desuden [plugin liste](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
 - Harvest - time tracking
@@ -40,9 +41,9 @@ Til inspiration for hvem det kunne være interessant er her en oversigt over nog
 
 ##### **Homebrew**
 
-Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 62 forskellige programmer.
+Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 63 forskellige programmer.
 
-`brew install --cask git cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
+`brew install --cask git iterm2 cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
 
 #### **Menubar**
 - Mic drop - deactivate mic
@@ -102,21 +103,23 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - [control]+[alt]+[command] + (arrow left / right) - move window to next screen
 - [control]+[alt] + (arrow left / right) - half size window size
 - [control]+[alt]+[command] + k - show menubar kalender
-- - [command] + N - add event i kalender
+- - [command] + n - add event i kalender
+- [control]+[alt]+[command] + o - åbne mappen i sublime text, [se vejledning](https://apple.stackexchange.com/questions/344601/keyboard-shortcut-to-open-folder-with-sublime-text)
+- [control]+[alt]+[command] + i - åbne iterm2 i pågældende mappe
 
 #### **Finder**
 Se menu "go" i finder for flere
-- [shift]+[command] + O - Home
-- [shift]+[command] + D - Desktop
-- [shift]+[command] + A - Applications
-- [alt]+[command] + L - Downloads
+- [shift]+[command] + o - Home
+- [shift]+[command] + d - Desktop
+- [shift]+[command] + a - Applications
+- [alt]+[command] + l - Downloads
 
 - [shift]+[command] + . (dot) - show hidden files
 
 #### **Hotkey Indstillinger** 
 settings → keyboard → Shortcuts → App Shortcuts
 
-- [control]+[alt]+[command] + D - show desktop
+- [control]+[alt]+[command] + d - show desktop
 - [control]+[alt]+[command] + , - åbner system indstillinger
 - [alt]+[command] + (left elller right) Skift visning af faneblad i finder og alle programmer, så den er den samme som i     firefox.
 
@@ -126,6 +129,10 @@ settings → keyboard → Shortcuts → App Shortcuts
 
 ### **Firefox genveje**
 Indstilles under firefox addons [shift]+[cmd] + a → tandhjul (settings) Håndter genveje, se screenshot (tryk på pilen, i starten af linjen)
+
+#### Native
+
+- [command]+[alt] + r - open firefox reader mode
 
 #### Inbox when ready
 

@@ -12,7 +12,7 @@ toc_label: "Indholdsfortegnelse"
 toc_sticky: false
 ---
 
-> "Do what you can, with what you have, where you are." - Theodore Roosevelt
+> "Do what you can, with what you have, where you are." <br>- Theodore Roosevelt
 
 Baseret på min antagelse om, at hvor min intuition ikke er hensigtsmæssigt, kan et system hjælpe. 
 
@@ -99,8 +99,8 @@ Han fortæller blandt andet at vi lever i en moderne verden, som kan beskrives s
 #### Firefox
 - [Leechblock](https://www.proginosko.com/leechblock/) blokerer på baggrund af selvvalgte regler hvad min browser må vise. Jeg har blokeret alle sociale medier i hverdagene og som eksempel tildelt [news.ycombinator.com](https://news.ycombinator.com/) min yndlings nyhedsside 10 daglige minutter.
   - Du kan downloade min [leechblock settings fil](/assets/files/LeechBlockOptions(andersha).txt.zip).
-
 - [Unlock origin](https://ublockorigin.com/) reklamebeskyttelse har blokeret 150.xxx elementer siden jeg installerede den.
+- Pocket + Reader mode giver en god læse oplevelse.
 
 Se flere [firefox plugins](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
 
