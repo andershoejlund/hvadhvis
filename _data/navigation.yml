@@ -1,8 +1,8 @@
 main:
   # - title: "Blog"
   #   url: /posts/
-  - title: "Klima 101"
-    url: /klima101/
+  # - title: "Klima 101"
+  #   url: /klima101/
   - title: "Hvorfor Hvad Hvis"
     url: /hvorforhvadhvis/
 
