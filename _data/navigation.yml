@@ -1,52 +1,41 @@
 main:
+- title: "Det Regenerative Kompendie"
+  url: /det-regenerative-kompendie/
   # - title: "Blog"
   #   url: /posts/
   # - title: "Klima 101"
   #   url: /klima101/
-  - title: "Hvorfor Hvad Hvis"
-    url: /hvorforhvadhvis/
+  # - title: "Hvorfor Hvad Hvis"
+  #   url: /hvorforhvadhvis/
 
-klima:
-  - title: Klima 101
+regenerativ:
+  - title: Introduktion
     children:
-      - title: "Historisk"
-        url: /docs/quick-start-guide/
-      - title: "Holocæne epoke"
-        url: /docs/structure/
+      - title: "Velkommen"
+        url: /det-regenerative-kompendie/#
+      - title: "Hvad er landbrugets miljø påvirkning"
+        url: /det-regenerative-kompendie/#hvad-er-landbrugets-miljø-påvirkning
+      - title: "Regenerative Principper"
+        url: /det-regenerative-kompendie/#regenerative-principper
+
+  - title: Perspektivering - vores samtid
+    children:
       - title: "Planetary Boundaries"
-        url: /docs/installation/
+        url:
+      - title: "Holocæne epoke - world in data"
+        url: 
       - title: "Tipping Points"
-        url: /docs/upgrading/
+        url:
+      - title: "EAT Lancet raport"
+        url:
 
-  - title: Jord
+  - title: En ægte kontekst - En planet
     children:
-      - title: "Jord"
-        url: /docs/configuration/
-      - title: "Økosystemer"
-        url: /docs/navigation/
-      - title: "Spaceship Earth"
-        url: /docs/ui-text/
-      - title: "Forvalting"
-        url: /docs/authors/
-      - title: "Energi"
-        url: /docs/layouts/
-
-  - title: Lokalsamfund
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Dougnut Økonomi"
+        url:
+      - title: "Landbrug, som producent og forvalter"
+        url:
+      - title: "Hvor lidt kan dansk landbrug fylde?"
+        url: 
+      - title: "Energi forbrug og trofisk niveau"
+        url: 

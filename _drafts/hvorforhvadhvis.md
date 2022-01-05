@@ -1,7 +1,12 @@
 ---
 permalink: /hvorforhvadhvis/
 title: "Hvorfor Hvad Hvis"
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "klima"
+toc: false
+toc_label: "Indholdsfortegnelse"
+toc_sticky: false
 ---
 Hvad Hvis er et eksperiment. Jeg læser og deler mine referencer og noter. Ideen er at lade [hvad hvis](https://hvadhvis.dk/) vokse støt, efter flere bøger og artikler bliver læst og beskrevet.
 
@@ -17,11 +22,59 @@ Jeg forestiller mig en ny højskole, hvor vi ikke kun skal lære om Grundtvig og
 
 ### To virkeligheder
 
+Gad vide om det går bedre nu?
+
+<span class="sidenote">
+  <input
+    aria-label="Show sidenote"
+    type="checkbox"
+    id="sidenote__checkbox--1"
+    class="sidenote__checkbox">
+  <label
+    tabindex="0"
+    title="Sidenote content"
+    aria-describedby="sidenote-1"
+    for="sidenote__checkbox--1"
+    class="sidenote__button sidenote__button--number-1
+  ">Sidenote label</label> Her slutter min label, gade vide hvordan den røg ude?
+  <small
+    id="sidenote-1"
+    class="sidenote__content sidenote__content--number-1">
+    <span class="sidenote__content-parenthesis
+    "> (sidenote: </span>
+    Sidenote content skal også gerne være synlig.
+    <span class="sidenote__content-parenthesis">)</span>
+  </small>
+</span>
+
 **Vores samtid er præget af en omfattende og potentielt altødelæggende klima-, miljø-, biodiversitets- og ulighedskrise.** 
 
 Jeg tror på, at vi skal lære at indgå i og medforvalte den naturlige virkelighed, vores planet Jorden. Atmosfæren er en tynd hinde på en stor planet. Vi har for længst bevist at vi sagtens kan påvirke CO² koncentrationen i atmosfæren
 
 Det ligner ellers en meget stor blå himmel nedefra. 
+
+The <span class="sidenote">
+        <input
+          aria-label="Show sidenote"
+          type="checkbox"
+          id="sidenote__checkbox--1"
+          class="sidenote__checkbox">
+        <label
+          tabindex="0"
+          title="{{ include.content }}"
+          aria-describedby="sidenote-1"
+          for="sidenote__checkbox--1"
+          class="sidenote__button sidenote__button--number-1
+        ">sidenote</label>
+        <small
+          id="sidenote-1"
+          class="sidenote__content sidenote__content--number-1">
+          <span class="sidenote__content-parenthesis
+          "> (sidenote: </span>
+          This is the sidenote.
+          <span class="sidenote__content-parenthesis">)</span>
+        </small>
+      </span> collapses inside the text on viewports narrower than 1080 pixels. There the underlined text is clickable and toggles the visibility of the sidenote's content.
 
 Jord med vilje handler om at indgå og forstå begge virkeligheder. Danmark er et demokratisk landbrugsland og jeg ønsker at være en regenerativ landmand. Regenerativt betyder at et system ikke kun er bæredygtigt, men regenerende og genopbyggende. Det er en bevidsthed om, at 1+1 = 3, hvis vi arbejder sammen med naturens grundlæggende principper og lader kompleixitetens mangfold gavne helheden. 
 
