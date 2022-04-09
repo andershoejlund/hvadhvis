@@ -16,6 +16,14 @@ toc_sticky: false
 
 Til inspiration for hvem det kunne være interessant er her en oversigt over nogle af de programmer og ideer jeg bruger på min computer.
 
+###Bookmarks
+
+Jeg er ikke klar til obsidian endnu.
+
+Alt skal igennem pinboard / pocket, når jeg bruger en reference, så tager jeg den i zotero og allerhelst også anki.
+
+
+
 ### macOS programmer
 
 #### **Work**
@@ -29,32 +37,37 @@ Til inspiration for hvem det kunne være interessant er her en oversigt over nog
 - Mailmate - dansk udviklet mail program keyboard og markdown orienteret
 - Firefox - se desuden [plugin liste](https://hvadhvis.dk/blog/Second-Brain-Setup/#firefox-1).
 - Harvest - time tracking
+- Qbserve - use tracking
+- Macdown
+- Scapple
+- Scrivener
+- Obsidian
 
 #### **Diverse**
 - Daisydisk - hdd overview
 - Appcleaner - uninstall
-- Camo - iphone as webcam
+- Camo - iphone as webcam, har jeg afinstalleret da den blev default for en masse også når jeg ikke skulle bruge den.
 - Syncthing - non-cloud file sharing
 - Contexts - window switcher
 - Cursorcerer - hide cursor - [LINK](http://doomlaser.com/cursorcerer-hide-your-cursor-at-will/)
 - QLMarkdown - quicklook markdown - [LINK](https://github.com/toland/qlmarkdown/)
+- Muzzleapp - silence notification on calls and screenshare - [https://muzzleapp.com/](https://muzzleapp.com/)
+- bettertouchtool - rewrite firefox reader mode shortcut (not yet I believe!)
 
 ##### **Homebrew**
 
 Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger. Det er sjældent nødvendigt, men meget nemt. Hvis du har homebrew installeret og kørte koden herunder, så ville der blive installeret 63 forskellige programmer.
 
-`brew install --cask git iterm2 cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar`
+`brew install --cask git iterm2 cyberduck dropbox firefox flux harvest hiddenbar lulu mamp mic-drop microsoft-excel microsoft-word notion poedit sequel-pro signal sketchup spotify steveschow-gfxcardstatus sublime-text teamviewer tomighty transmission typora vlc workflowy xmind bitwarden brave-browser calibre camo-studio tiles appcleaner macsyncthing contexts macmediakeyforwarder cursorcerer QLMarkdown Maccy Itsycal Daisydisk zotero caffeine discord fanny google-earth-pro onyx protonvpn slack turbo-boost-switcher zoom google-chrome dhs bigsur-cache-cleaner monitorcontrol sound-control mailmate winds yed balenaetcher karabiner-elements secondbar scapple´
 
 #### **Menubar**
 - Mic drop - deactivate mic
 - LuLu - firewall - [LINK](https://objective-see.com/products/lulu.html)
-- macmediakeyforwarder - spotify only keyboard
 - Maccy - clipboard history
 - Grayscale Mode*
 - Nextdns - dns* app store
-- Auto Collapse - menubar hide / show
+- Hiddenbar - menubar hide / show
 - Itsycal - menubar kalender
-- Fanny - fanspeed og temperataur
 - Sound control - external monitor sound control hdmi
 - Tiles - window control
 - Protonmail bridge - protonmail to mailmate  encryption
@@ -73,6 +86,10 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Inbox When Ready for Gmail
 - Move Tab Hotkeys
 - Tab session manager
+- imacros
+- Tweetdeck
+	- Kan organisere flere tweet feeds
+	- Kan importere optil 100 handles ad gangen
 
 ##### Webudvikling
 
@@ -86,6 +103,11 @@ Homebrew er smart. Lynhurtigt kan jeg installere alle, de programmer jeg bruger.
 - Privacy Badger
 - Smart Referer
 - uBlock Origin
+
+#### **Chrome**
+
+ - Clippings.io - kindle notes export
+ - Browserflow - automate browser
 
 ### **macOS genveje**
 
@@ -114,7 +136,11 @@ Se menu "go" i finder for flere
 - [shift]+[command] + a - Applications
 - [alt]+[command] + l - Downloads
 
+- [fn]+[ctrl] + f2 - show menubar
+
 - [shift]+[command] + . (dot) - show hidden files
+
+- [option]+[command] + ⏏ (eject) - sleep
 
 #### **Hotkey Indstillinger** 
 settings → keyboard → Shortcuts → App Shortcuts
